@@ -1,0 +1,161 @@
+// Stat Names Go Between 0-999
+//core 3.5 Prestige classes
+{18}{Arcane Archer}
+{19}{Arcane Trickster}
+{20}{Archmage}
+{21}{Assassin}
+{22}{Blackguard}
+{23}{Dragon Disciple}
+{24}{Duelist}
+{25}{Dwarven Defender}
+{26}{Eldritch Knight}
+{27}{Hierophant}
+{28}{Horizon Walker}
+{29}{Loremaster}
+{30}{Mystic Theurge}
+{31}{Shadowdancer}
+{32}{Thaumaturgist}
+{33}{Bladesinger}
+
+
+// Stat Short Names Go Between 1000-1999  
+{1018}{Aarc}
+{1019}{Atrk}
+{1020}{Amag}
+{1021}{Assn}
+{1022}{Blkg}
+{1023}{Drds}
+{1024}{Dlst}
+{1025}{Dwdf}
+{1026}{Edkn}
+{1027}{Hier}
+{1028}{Horw}
+{1029}{Lore}
+{1030}{Msth}
+{1031}{Sdwd}
+{1032}{Thmg}
+
+
+
+// Race Names Go Between 2000-2999
+
+// Race Abbreviations Go Between 3000-3999
+
+
+// Race Short Help Goes Between 12000-12999
+
+// Class Short Help Goes Between 13000-13099
+{13011}Arcane Archer{--COMING SOON-- The arcane archer is an Elven warrior skilled in using magic to supplement their combat prowess.
+
+Requirements: Elf or half-elf. BAB +6.
+Feats: Point Blank Shot, Precise Shot, Weapon Focus (longbow or shortbow).
+Spells: Ability to cast 1st-level arcane spells.
+}
+
+
+{13012}Arcane Trickster{Arcane tricksters combine their knowledge of spells with a taste for intrigue, larceny, or just plain mischief.
+
+Requirements: Nonlawful, Sneak attack +2d6.
+Skill ranks: Disable Device 7
+Spells: Ability to cast an arcane spell of 3rd level+.
+}
+
+
+{13013}Archmage{--COMING SOON-- An advanced practitioner of the Art, who gains strange powers and the ability to alter spells in remarkable ways.
+
+Requirements: Ability to cast 7-th level arcane spells
+Skill ranks: Spellcraft 15
+Feats: Skill Focus (Spellcraft), Spell Focus in two schools of magic}
+
+
+{13014}Assassin{--COMING SOON-- A master of dealing quick, lethal blows, whose training allows to carry out missions of death with shocking, terrifying precision.
+
+Requirements: Evil alignment.
+Skill ranks: Hide 8, Move Silently 8
+The character must kill someone just for joining the assassins.}
+
+
+{13015}Blackguard{--COMING SOON-- The quintessential black knight. Also called by some an anti-paladin.
+
+Requirements: Evil alignment. BAB +6.
+Skill ranks: Hide 5
+Feats: Cleave, Power Attack
+Special: Contact with an evil summoned outsider.}
+
+
+{13016}Dragon Disciple{--NOT COMING SOON-- A descendant of dragonkind who uses their innate magical power as a catalyst to ignite their dragon blood.
+
+Requirements
+Race: Any nondragon.
+Spellcasting: Ability to cast arcane spells without preparation.}
+
+
+{13017}Duelist{A nimble, intelligent fighter trained in making precise attacks with light weapons, such as the rapier. Also known as a swashbuckler.
+
+Requirements: BAB +6
+Skill ranks: Perform 3, Tumble 5
+Feats: Dodge, Mobility, Weapon Finesse
+}
+
+
+{13018}Dwarven Defender{--COMING SOON-- A sponsored champion of a dwarven cause, trained in the arts of defense.
+
+Requirements: Dwarven race. Lawful alignment. BAB +7.
+Feats: Dodge, Toughness
+}
+
+
+{13019}Eldritch Knight{A versatile combatant who studies the martial and arcane arts to equal degree.
+
+Requirements: Able to cast 3rd-level arcane spells.
+Weapon Proficiency: Must be proficient with all martial weapons.
+}
+
+
+
+{13020}Hierophant{--NOT COMING SOON-- A divine spellcaster who rises high in the service of their deity, gaining access to spells and abilities of which lesser faithful can only dream.
+
+Requirements
+Feats: Any metamagic feat.
+Spells: Able to cast 7th-level divine spells.}
+{13021}Horizon Walker{--NOT COMING SOON-- An unceasing traveller to the universe's most dangerous places.
+
+Requirements
+derp}
+
+
+
+{13022}Loremaster{--NOT COMING SOON-- A spellcaster who concentrates on knowledge, unconvering secrets that they then use to better themselves mentally, physically and spiritually.
+
+Requirements
+Feats: Any three metamagic or item creation feats.
+Spells: Able to cast seven different divination spells, one of which must be 3rd level or higher.
+}
+{13023}Mystic Theurge{A mystic theurge walks two roads at once, simulatenously mastering spells common to clerics and wizards.
+
+Requirements: Able to cast 2nd-level divine spells and 2nd-level arcane spells.
+}
+{13024}Shadowdancer{--NOT COMING SOON-- A numble artist of deception operating in the border between light and darkness.
+
+Requirements
+Skill ranks: Move Silently 8, Hide 10, Perform 5
+Feats: Combat Reflexes, Dodge, Mobility}
+{13025}Thaumaturgist{One who reaches out with divine power to other planes of existence, calling creatures there to do their bidding.
+
+Requirements
+Feats: Spell Focus (conjuration).
+Spells: Able to cast lesser planar ally.}
+{13026}Bladesinger{Bladesingers are elves who have blended art, swordplay, and arcane magic into a harmonious whole.
+
+Requirements
+Feats: Combat Casting, Combat Expertise, Dodge, Weapon Focus (Longsword) or Weapon Focus (Rapier).
+Skills: Concentration 4, Perform 2, Tumble 2
+Spells: Able to cast 1st level arcane spells}
+
+// Cannot Pick Class Short Help Goes in the range of 20007+
+{20007} Arcane Archer{Arcane Archer requirements:
+Race: Elf or half-elf.
+Base Attack Bonus: +6
+Feats: Point Blank Shot, Precise Shot, Weapon Focus (longbow or shortbow)
+Spells: Ability to cast 1st level arcane spells.}
+
