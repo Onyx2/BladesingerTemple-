@@ -57,10 +57,10 @@ def IsRangedWeapon( weap ):
                 return 0
         return 1
 
-def IsRapierorLongsword ( obj, weap):
-        weaponType = obj.get_weapon_type(weap, 1)
-        if weaponType != wt_rapier or wt_longsword:
-                return 0
+def IsRapierorLongsword( obj, weap):
+    weaponType = weap.obj_get_int(obj_f_weapon_type)
+    if weaponType != wt_rapier or wt_longsword:
+        return 0
 
 def IsUsingBladeSongWeapon( obj ):
         weap = obj.item_worn_at(3)
@@ -80,7 +80,7 @@ def IsUsingBladeSongWeapon( obj ):
 def BladesongAcBonus(attachee, args, evt_obj):
         if not IsLightlyArmored(attachee):
                 return 0
-        if not IsUsingBladeSongWeapon(obj, weap):
+        if not IsUsingBladeSongWeapon(obj):
                 return 0
         if offhand != OBJ_HANDLE_NULL:
                 return 0
